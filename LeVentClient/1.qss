@@ -1,0 +1,7 @@
+QCheckBox{
+    width:45px;
+    height:30px;
+}
+QCheckBox{
+    image: url(":/Image/switch-01.png");
+}

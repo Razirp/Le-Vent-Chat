@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/Fire.png</file>
+        <file>Image/delete.png</file>
+        <file>Image/jianshao.png</file>
+        <file>Image/add_friends.png</file>
+        <file>Image/arrival_personnel.png</file>
+        <file>Image/notification-filling.png</file>
+        <file>Image/setting.png</file>
+        <file>Image/sign-out.png</file>
+        <file>Image/kaiguankai.png</file>
+        <file>Image/switch-01.png</file>
+        <file>1.qss</file>
+        <file>Image/Find.png</file>
+        <file>Image/warning.png</file>
+        <file>Image/Account.png</file>
+        <file>Image/blue.jpeg</file>
+        <file>Image/color.jpg</file>
+        <file>Image/color2.jpg</file>
+        <file>Image/color3.png</file>
+        <file>Image/lock.png</file>
+        <file>Image/people (2).png</file>
+        <file>Image/watercolor-4116932_1280.png</file>
+        <file>Image/watercolor-4117017_1280_0.png</file>
+        <file>Image/watercolor-4117017_1280_1.png</file>
+        <file>Image/watercolor-4117017_1280_2.png</file>
+        <file>Image/watercolor-4117017_1280_3.png</file>
+        <file>Image/watercolor-4117017_1280_6.png</file>
+        <file>Image/girlAndScene.png</file>
+        <file>Image/bitch.jpg</file>
+        <file>Image/girl.png</file>
+        <file>Image/touxiang.jpg</file>
+        <file>Image/man.png</file>
+        <file>Image/boyandgirl.png</file>
+        <file>Image/snow.png</file>
+        <file>Image/mainhh.png</file>
+        <file>Image/bubble.png</file>
+        <file>Image/delete (1).png</file>
+        <file>Image/Minimize 3.png</file>
+    </qresource>
+</RCC>

@@ -108,3 +108,11 @@
 ### 服务器端
 
 <img src="README.assets/image-20240422212235626.png" alt="image-20240422212235626" style="zoom:67%;" />
+
+## 许可证
+
+本项目采用MIT许可协议 – 详情请参阅 [LICENSE](LICENSE) 文件。
+
+## 联系方式
+
+如有任何问题或咨询，请通过 razirp77@outlook.com 与我联系。

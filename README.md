@@ -6,10 +6,6 @@
 >
 > An instant messaging (IM) software based on Qt 5.12, including the front-end and back-end.
 
-<img src="README.assets/image-20240422211637345.png" alt="image-20240422211637345" style="zoom: 50%;" />
-
-<img src="README.assets/image-20240422211959748.png" alt="image-20240422211959748" style="zoom: 50%;" />
-
 ## repo 架构
 
 - [LeVentClient/](LeVentClient/)：客户端（前端）的源码，是一个 `Qt 5` 项目
